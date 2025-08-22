@@ -53,9 +53,9 @@
 
 ---
 
-## 🐍 Contribution Snake  
+## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/itsmilindsahu/itsmilindsahu/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/itsmilindsahu/itsmilindsahu/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
