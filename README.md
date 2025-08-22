@@ -26,12 +26,20 @@ Active in hackathons and coding competitions, with experience in ICPC and AI/ML 
 - 📤 Shareable snapshots for reports and audits  
 - 🔒 Secure API-driven data with privacy controls  
 
-**🔗 Explore EcoFusion:**  
-<div align="center" style="margin-top:10px;">
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsmilindsahu/ECOFUSION_Shortcut)  
-[![Watch Demo](https://img.shields.io/badge/Watch-Demo-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=-H09fjGEfTI)  
-[![Landing Page](https://img.shields.io/badge/Visit-LandingPage-green?style=for-the-badge&logo=firefox&logoColor=white)](https://ecofusion.carrd.co/)  
-</div>
+### Explore EcoFusion
+
+<p align="center" style="margin-top:10px;">
+  <a href="https://github.com/itsmilindsahu/ECOFUSION_Shortcut">
+    <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=H09fjGEfTl">
+    <img src="https://img.shields.io/badge/Watch-Demo-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo" />
+  </a>
+  <a href="https://ecofusion.carrd.co/">
+    <img src="https://img.shields.io/badge/Visit-Landing%20Page-green?style=for-the-badge&logo=firefox&logoColor=white" alt="Landing Page" />
+  </a>
+</p>
+
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
