@@ -53,9 +53,26 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 GitHub Contribution Snake  
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/itsmilindsahu/itsmilindsahu/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/itsmilindsahu/itsmilindsahu/output/github-snake.svg" alt="snake" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itsmilindsahu/itsmilindsahu/output/github-snake-dark.svg" alt="snake dark" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itsmilindsahu/itsmilindsahu/output/github-snake-ocean.svg" alt="snake ocean" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itsmilindsahu/itsmilindsahu/output/github-snake-aurora.svg" alt="snake aurora" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itsmilindsahu/itsmilindsahu/output/github-snake-neon.svg" alt="snake neon" />
 </p>
 
 ---
