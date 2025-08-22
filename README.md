@@ -1,89 +1,76 @@
-<h1 align="center">👋 Hey, I’m Milind Sahu</h1>
+<h1 align="center">Hi 👋, I'm Milind Sahu</h1>
+<h3 align="center">ECE Undergrad | Aspiring Game Developer | Tech Explorer</h3>
+
+---
+
+## 🚀 About Me
+- 🎓 First-year B.Tech student in **Electronics & Communication Engineering (ECE)** at **Delhi University**  
+- 🎮 Passionate about **Game Development** — blending storytelling, design, and technology  
+- 💡 Interests: **AI for Games, Embedded Systems, Digital Electronics, and Sustainable Tech**  
+- 🌱 Currently learning **C++, Data Structures, and Game Engines**  
+- 💻 Open to **collaborations, hackathons, and open-source contributions**  
+
+---
+
+## 📂 Featured Projects
+### 🔹 **EcoFusion**
+*A sustainability-focused IoT project*  
+- Built an **ESP32-based OBD-II system** for real-time vehicle data monitoring  
+- Promotes **eco-friendly driving** through analytics & insights  
+
+### 🔹 **Shadows of the Deccan**
+*Indie-style cinematic action-adventure game (concept project)*  
+- Inspired by **Uncharted** & **Ghost of Tsushima**, but rooted in **Indian culture & history**  
+- Features stealth, exploration, and emotionally driven narrative  
+
+### 🔹 **Crowd Management AI**
+*Hackathon project for smart cities*  
+- AI agent-based system for **real-time crowd flow monitoring & prediction**  
+- Useful for **large gatherings, events, and public transport hubs**  
+
+---
+
+## 🏆 Achievements
+- 🌟 Hackathon participation (CodeSynthesis, MumbaiHacks)  
+- 🛠 Built **early prototypes in IoT and AI-driven systems**  
+- 📖 Actively exploring **DSA, ML in games, and hardware prototyping**  
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-🎮 Aspiring Indie Game Developer | ⚡ ECE Student | 🌱 Open Source Enthusiast
+  <img src="https://github-readme-stats.vercel.app/api?username=itsmilindsahu&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmilindsahu&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=itsmilindsahu&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmilindsahu&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Contribution Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itsmilindsahu/itsmilindsahu/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar"/>
 </p>
 
 ---
 
-## 🚀 About Me  
-- 🔭 Currently working on **EcoFusion (ESP32 + OBD-II project)** and hackathon prototypes.  
-- 🎯 Interested in **Game Development, ECE Systems, and AI/ML**.  
-- 🌍 Exploring how **engineering + creativity** can merge to build impactful solutions.  
-- 🕹️ Big fan of cinematic storytelling in games *(Uncharted, Ghost of Tsushima inspired)*.  
-
----
-
-## 🛠️ Tech & Tools  
+## 🏅 GitHub Trophies
 <p align="center">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-<img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://github-profile-trophy.vercel.app/?username=itsmilindsahu&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-## 📂 Featured Projects  
+## 📬 Connect with Me
 <p align="center">
-🔹 <a href="https://github.com/itsmilindsahu/ECOFUSION_Shortcut">EcoFusion_Shortcut</a> — ESP32-based OBD-II shortcut system for **vehicle monitoring & efficiency tracking**.  
-<br>
-🔹 <a href="https://github.com/itsmilindsahu/ATL">ATL</a> — Hackathon repository showcasing **AI + IoT based projects**.  
-<br>
-🔹 <a href="https://github.com/itsmilindsahu/MilindSahu-100">MilindSahu-100</a> — Old repo — experiments, notes, and testing ground.  
+  <a href="https://linkedin.com/in/milindsahu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:milindsahu@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmilindsahu&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=itsmilindsahu&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itsmilindsahu&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🐍 GitHub Contribution Snake  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/itsmilindsahu/itsmilindsahu/output/github-snake.svg" alt="snake" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/itsmilindsahu/itsmilindsahu/output/github-snake-dark.svg" alt="snake dark" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/itsmilindsahu/itsmilindsahu/output/github-snake-ocean.svg" alt="snake ocean" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/itsmilindsahu/itsmilindsahu/output/github-snake-aurora.svg" alt="snake aurora" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/itsmilindsahu/itsmilindsahu/output/github-snake-neon.svg" alt="snake neon" />
-</p>
-
----
-
-## 📫 Let’s Connect  
-<p align="center">
-<a href="https://www.linkedin.com/in/milind-sahu/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-<a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-
----
-
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect.*
