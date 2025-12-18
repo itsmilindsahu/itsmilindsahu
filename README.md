@@ -1,13 +1,31 @@
+
 # 👋 Hi, I'm Milind Sahu
-**ECE Undergrad | IoT & Embedded Systems Developer**
+
+🎓 **BS–MS Dual Degree Student**  
+📍 Indian Institute of Science Education and Research (IISER) Tirupati  
+🔬 Exploring mathematics & computation for long-term research directions
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
-## 💼 About Me
-I am currently pursuing **B.Tech in Electronics & Communication Engineering (ECE)** at **Delhi University**.  
-I focus on **IoT, embedded systems, energy monitoring, and sustainable technology solutions**.  
-I build projects that integrate **hardware, software, and data** to create practical, real-world impact.  
-Active in hackathons and coding competitions, with experience in ICPC and AI/ML projects.
+
+## 🧠 About Me
+
+I am a first-year BS–MS student at **IISER Tirupati**, exploring foundational areas in mathematics and computation to build strong theoretical and practical grounding for future research.
+
+My interests lie at the intersection of **mathematical modelling, probability, optimization, and scientific computing**, with a growing inclination toward interdisciplinary applications in physics and data-driven systems.
+
+I enjoy building systems end-to-end — combining **algorithms, computation, and real-world constraints** — and actively participate in hackathons and technical projects that demand both rigor and execution. :contentReference[oaicite:0]{index=0}
+
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+
+
+## 🔬 Research Interests
+
+- Mathematical Modelling  
+- Probability & Stochastic Processes  
+- Optimization & Numerical Methods  
+- Scientific Computing  
+- Interdisciplinary Physics Concepts 
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
