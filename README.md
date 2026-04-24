@@ -1,31 +1,35 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=MILIND%20SAHU&fontSize=60&fontColor=ffffff&fontAlignY=55&desc=Math%20%E2%80%A2%20ML%20%E2%80%A2%20Quant%20Research%20%E2%80%A2%20IISER%20Tirupati&descSize=15&descAlignY=78&descColor=a0b4ff&animation=twinkling&stroke=7B7FEB&strokeWidth=2)
+<!-- Clean, crisp header using transparent typing SVGs to blend perfectly with GitHub's background -->
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=55&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=MILIND+SAHU" alt="MILIND SAHU">
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=40&lines=Math+%C2%B7+ML+%C2%B7+Quant+Research" alt="Math · ML · Quant Research">
 
 <br>
 
+<!-- Subtitle typing effect, expanded width to prevent cutoffs -->
 <a href="https://itsmilindsahu.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=7B7FEB&center=true&vCenter=true&repeat=true&width=600&lines=BS-MS+%40+IISER+Tirupati+%7C+First+Year;3%C3%97+IIT+Research+Intern+%7C+Math+%26+CSE;Optimization+%C2%B7+Stochastic+Processes+%C2%B7+NILM+ML;Building+toward+Quant+Research" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1000&color=9CA3AF&center=true&vCenter=true&repeat=true&width=800&height=40&lines=BS-MS+%40+IISER+Tirupati+%7C+First+Year;3%C3%97+IIT+Research+Intern+%7C+Math+%26+CSE;Optimization+%C2%B7+Stochastic+Processes+%C2%B7+NILM;Building+toward+Quant+Research" alt="Typing SVG">
 </a>
 
 <br><br>
 
-<!-- Social Badges -->
-<a href="https://itsmilindsahu.github.io"><img src="https://img.shields.io/badge/Axiom_Labs-0d1117?style=for-the-badge&logo=vercel&logoColor=7B7FEB&border=7B7FEB" alt="Portfolio"></a>
-<a href="https://linkedin.com/in/itsmilindsahu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:milind20251175@students.iisertirupati.ac.in"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://github.com/itsmilindsahu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<!-- Cohesive, uniform social badges matching GitHub dark mode -->
+<a href="https://itsmilindsahu.github.io"><img src="https://img.shields.io/badge/Axiom_Labs-21262d?style=for-the-badge&logo=vercel&logoColor=3B82F6" alt="Portfolio"></a>
+<a href="https://linkedin.com/in/itsmilindsahu"><img src="https://img.shields.io/badge/LinkedIn-21262d?style=for-the-badge&logo=linkedin&logoColor=3B82F6" alt="LinkedIn"></a>
+<a href="mailto:milind20251175@students.iisertirupati.ac.in"><img src="https://img.shields.io/badge/Email-21262d?style=for-the-badge&logo=minutemailer&logoColor=3B82F6" alt="Email"></a>
+<a href="https://github.com/itsmilindsahu"><img src="https://img.shields.io/badge/GitHub-21262d?style=for-the-badge&logo=github&logoColor=3B82F6" alt="GitHub"></a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=itsmilindsahu&style=flat-square&color=7B7FEB&label=PROFILE+VIEWS" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=itsmilindsahu&style=flat-square&color=3B82F6&label=PROFILE+VIEWS" alt="Profile Views">
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7B7FEB&center=true&vCenter=true&width=400&lines=~%2Fwho_i_am.sh" alt="Who I Am">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=400&lines=~%2Fwho_i_am.sh" alt="Who I Am">
 </div>
 
 ```python
@@ -52,7 +56,7 @@ if __name__ == "__main__":
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7B7FEB&center=true&vCenter=true&width=400&lines=~%2Fcompetitions.sh" alt="Competitions">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=400&lines=~%2Fcompetitions.sh" alt="Competitions">
 </div>
 
 <div align="center">
@@ -72,13 +76,13 @@ if __name__ == "__main__":
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7B7FEB&center=true&vCenter=true&width=400&lines=~%2Fprojects.sh" alt="Projects">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=400&lines=~%2Fprojects.sh" alt="Projects">
 </div>
 
 > **Interactive Details** — *Click the dropdowns below to expand project execution logs.*
 
 <details>
-<summary>⚡ <b>BHARAT-NILM</b> &nbsp;·&nbsp; <code>[Load Monitoring]</code> &nbsp; <img src="https://img.shields.io/badge/Rank-3rd_National-7B7FEB?style=flat-square"> </summary>
+<summary>⚡ <b>BHARAT-NILM</b> &nbsp;·&nbsp; <code>[Load Monitoring]</code> &nbsp; <img src="https://img.shields.io/badge/Rank-3rd_National-3B82F6?style=flat-square"> </summary>
 <br>
 
 > Appliance-level energy disaggregation from a single aggregate smart meter reading — no per-device sensors needed.
@@ -87,13 +91,13 @@ if __name__ == "__main__":
 * **Hardware:** Custom smart plug with current sensing & MQTT pipeline to FastAPI backend.
 * **Stack:** `Python` `TensorFlow` `FastAPI` `MQTT` `ESP32` `JavaScript`
 
-<a href="https://github.com/itsmilindsahu/BHARAT-NILM"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
-<a href="https://github.com/itsmilindsahu/bharat-nilm-dashboard"><img src="https://img.shields.io/badge/Dashboard-013243?style=flat-square&logo=javascript&logoColor=white"></a>
+<a href="https://github.com/itsmilindsahu/BHARAT-NILM"><img src="https://img.shields.io/badge/Repository-21262d?style=flat-square&logo=github&logoColor=3B82F6"></a>
+<a href="https://github.com/itsmilindsahu/bharat-nilm-dashboard"><img src="https://img.shields.io/badge/Dashboard-21262d?style=flat-square&logo=javascript&logoColor=3B82F6"></a>
 
 </details>
 
 <details>
-<summary>🚗 <b>HEV Optimization</b> &nbsp;·&nbsp; <code>[Hybrid Efficiency]</code> &nbsp; <img src="https://img.shields.io/badge/Rank-Top_100-7B7FEB?style=flat-square"> </summary>
+<summary>🚗 <b>HEV Optimization</b> &nbsp;·&nbsp; <code>[Hybrid Efficiency]</code> &nbsp; <img src="https://img.shields.io/badge/Rank-Top_100-3B82F6?style=flat-square"> </summary>
 <br>
 
 > OBD-II telemetry pipeline for hybrid vehicle mode switching strategy optimization.
@@ -102,12 +106,12 @@ if __name__ == "__main__":
 * **Focus:** Time-series efficiency analysis and operational cost modelling.
 * **Stack:** `Python` `Pandas` `NumPy` `OBD-II`
 
-<a href="https://github.com/itsmilindsahu/ECOX"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
+<a href="https://github.com/itsmilindsahu/ECOX"><img src="https://img.shields.io/badge/Repository-21262d?style=flat-square&logo=github&logoColor=3B82F6"></a>
 
 </details>
 
 <details>
-<summary>♻️ <b>TRACEWASTE</b> &nbsp;·&nbsp; <code>[Waste Traceability]</code> &nbsp; <img src="https://img.shields.io/badge/Rank-2nd_IITH-7B7FEB?style=flat-square"> </summary>
+<summary>♻️ <b>TRACEWASTE</b> &nbsp;·&nbsp; <code>[Waste Traceability]</code> &nbsp; <img src="https://img.shields.io/badge/Rank-2nd_IITH-3B82F6?style=flat-square"> </summary>
 <br>
 
 > Verification-first accountability framework for post-collection waste management.
@@ -115,14 +119,14 @@ if __name__ == "__main__":
 * **Architecture:** QR-linked batch proofs with geo-tagging, timestamped logs, and formal chain-of-custody verification.
 * **Focus:** Policy gap analysis and data-driven municipal interventions.
 
-<a href="https://github.com/itsmilindsahu/geo-proof-demo"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white"></a>
+<a href="https://github.com/itsmilindsahu/geo-proof-demo"><img src="https://img.shields.io/badge/Live_Demo-21262d?style=flat-square&logo=vercel&logoColor=3B82F6"></a>
 
 </details>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7B7FEB&center=true&vCenter=true&width=400&lines=~%2Ftech_stack.sh" alt="Tech Stack">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=400&lines=~%2Ftech_stack.sh" alt="Tech Stack">
 </div>
 
 <div align="center">
@@ -140,24 +144,24 @@ if __name__ == "__main__":
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7B7FEB&center=true&vCenter=true&width=500&lines=~%2Fgithub_metrics.sh" alt="GitHub Metrics">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=~%2Fgithub_metrics.sh" alt="GitHub Metrics">
 </div>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=itsmilindsahu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=7B7FEB&icon_color=7B7FEB&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmilindsahu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B7FEB&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=itsmilindsahu&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=3B82F6&icon_color=3B82F6&text_color=9CA3AF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmilindsahu&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=9CA3AF" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=itsmilindsahu&theme=tokyonight&hide_border=true&background=0d1117&ring=7B7FEB&fire=ff6b6b&currStreakLabel=7B7FEB" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=itsmilindsahu&theme=transparent&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7B7FEB&center=true&vCenter=true&width=500&lines=~%2Fcurrent_focus.sh" alt="Current Focus">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=~%2Fcurrent_focus.sh" alt="Current Focus">
 </div>
 
 ```text
@@ -170,16 +174,12 @@ if __name__ == "__main__":
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7B7FEB&center=true&vCenter=true&width=400&lines=~%2Finitialize.sh" alt="Initialize">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=400&lines=~%2Finitialize.sh" alt="Initialize">
   
   <p><i>If you work on quant research, mathematical modelling, or energy systems — I'd love to talk.</i></p>
 
-  <a href="https://linkedin.com/in/itsmilindsahu"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:milind20251175@students.iisertirupati.ac.in"><img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/itsmilindsahu"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer">
+  <a href="https://linkedin.com/in/itsmilindsahu"><img src="https://img.shields.io/badge/LinkedIn-Connect-21262d?style=for-the-badge&logo=linkedin&logoColor=3B82F6"></a>
+  <a href="mailto:milind20251175@students.iisertirupati.ac.in"><img src="https://img.shields.io/badge/Email-Reach_Out-21262d?style=for-the-badge&logo=gmail&logoColor=3B82F6"></a>
+  <a href="https://github.com/itsmilindsahu"><img src="https://img.shields.io/badge/GitHub-Follow-21262d?style=for-the-badge&logo=github&logoColor=3B82F6"></a>
 
 </div>
