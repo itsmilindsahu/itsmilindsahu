@@ -9,7 +9,7 @@
 
 <!-- Subtitle typing effect, expanded width to prevent cutoffs -->
 <a href="https://itsmilindsahu.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1000&color=9CA3AF&center=true&vCenter=true&repeat=true&width=800&height=40&lines=BS-MS+%40+IISER+Tirupati+%7C+First+Year;3%C3%97+IIT+Research+Intern+%7C+Math+%26+CSE;Optimization+%C2%B7+Stochastic+Processes+%C2%B7+NILM;Building+toward+Quant+Research" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1000&color=9CA3AF&center=true&vCenter=true&repeat=true&width=800&height=40&lines=BS-MS+%40+IISER+Tirupati+%7C+Second+Year;3%C3%97+IIT+Research+Intern+%7C+Math+%26+CSE;Optimization+%C2%B7+Stochastic+Processes+%C2%B7+NILM;Building+toward+Quant+Research" alt="Typing SVG">
 </a>
 
 <br><br>
